@@ -6,7 +6,7 @@
 - Handle the response from a successful request
 - Handle errors from an unsuccessful request
 
-## Introduction
+## Introduction 
 
 If you think about it, `fetch()` is a little browser in your browser. You tell
 `fetch()` to go to a URL by passing it an argument e.g.
